@@ -8,5 +8,5 @@
 />
 </p>
 
-<a href="Desafio-02-Dio-Campus-Experto-Turma-08/assets" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="Desafio-02-Dio-Campus-Experto-Turma-08/assets"title="View PDF now"> 📕Clique aqui para ler</a>
 
