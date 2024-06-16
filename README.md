@@ -1,4 +1,4 @@
-# Minha mais recente Conquista na Dio: Finalização do Bootcamp Python Data Analytics
+# Bootcamp Python Data Analytics
 
 
 <p align="center">
@@ -9,5 +9,5 @@
 </p>
 
 
-<a href="https://github.com/Sandra23U/Desafio-02-Dio-Campus-Experto-Turma-08/blob/main/assets/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Sandra23U/Desafio-02-Dio-Campus-Experto-Turma-08/blob/main/assets/certificado python.jpg%20-%20index.html%20style.css%20script.js" title="View PDF now"> 📕Clique aqui para ler</a>
 
