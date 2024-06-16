@@ -8,5 +8,6 @@
 />
 </p>
 
-<a href="assets"title="View PDF now"> 📕Clique aqui para ler</a>
+
+<a href="https://github.com/Sandra23U/Desafio-02-Dio-Campus-Experto-Turma-08/blob/main/assets/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
