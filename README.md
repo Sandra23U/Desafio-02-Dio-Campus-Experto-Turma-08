@@ -9,5 +9,5 @@
 </p>
 
 
-<a href="https://github.com/Sandra23U/Desafio-02-Dio-Campus-Experto-Turma-08/blob/main/assets/certificado python.jpg%20-%20index.html%20style.css%20script.js" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://drive.google.com/file/d/19aaWRCSFA-5Kus89qlEAcQ2Yc3LlWP4A/view?usp=drivesdk"title="View PDF now"> 📕Clique aqui para ler</a>
 
